@@ -72,27 +72,17 @@ Sou estudante de Ciência da Computação e sempre busco aprender novas tecnolog
 
 # 📊 Estatísticas
 
-# 📊 Estatísticas
-
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Lourivalrsn&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"
-  />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lourivalrsn&layout=compact&theme=tokyonight&hide_border=true"
-  />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lourivalrsn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lourivalrsn&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Lourivalrsn&theme=tokyonight&hide_border=true"
-  />
+<img src="https://streak-stats.demolab.com?user=Lourivalrsn&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 <p align="center">
