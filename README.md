@@ -1,90 +1,103 @@
-<h1 align="center">
-  👾 Louri-RSN
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Apaixonado+por+Tecnologia;Sempre+Aprendendo+🚀" />
-</p>
+# 👾 Louri-RSN
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Back--end-A970FF?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Apaixonado+por+Tecnologia;Criando+e+Aprendendo+🚀" />
 
-<p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos diariamente."</i>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Back--End-Midnight%20Purple-8A2BE2?style=for-the-badge&logo=ghost&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=Lourivalrsn&color=8A2BE2&style=for-the-badge"/>
+
+### ✨ *"O sucesso é a soma de pequenos esforços repetidos diariamente."*
+
+</div>
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lourivalrsn&theme=react-dark&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=BB86FC&hide_border=true"/>
+
+---
+
+<div align="center">
+
+# 💜 Sobre mim
+
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lourivalrsn&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
+
+🎓 <b>Ciência da Computação — Estácio</b><br>
+📍 <b>Paraibano - MA | Teresina - PI</b><br>
+💻 <b>Técnico em Informática</b><br>
+🚀 <b>Apaixonado por tecnologia e desenvolvimento de software</b>
+
 </p>
 
-# 👋 Olá, eu sou Lourival Rodrigues de Sousa Neto!
-
-🎓 **Ciência da Computação — Estácio**  
-📍 **Paraibano - MA | Teresina - PI**  
-💻 **Técnico em Informática**  
-🚀 **Apaixonado por tecnologia e desenvolvimento de software**
-
+<p align="center">
 Sou estudante de Ciência da Computação e sempre busco aprender novas tecnologias, desenvolver projetos e aprimorar minhas habilidades para crescer profissionalmente na área de TI.
+</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🌐 Conecte-se comigo
 
-<p align="center">
-
-<a href="https://www.instagram.com/louri_rsn/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@louri_rsn-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/louri_rsn/">
+<img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/1119779006875709551" target="_blank">
-<img src="https://img.shields.io/badge/Discord-LI9K-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discordapp.com/users/1119779006875709551">
+<img src="https://img.shields.io/badge/Discord-7B2CBF?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/louri-rodrigues-66b416357/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Louri%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/louri-rodrigues-66b416357/">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Lourivalrsn" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/github/followers/Lourivalrsn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+
+
+<a href="https://github.com/Lourivalrsn">
+<img src="https://img.shields.io/github/followers/Lourivalrsn?style=for-the-badge&color=9D4EDD&labelColor=5A189A&logo=github&label=Seguidores"/>
 </a>
 
-<a href="https://github.com/Lourivalrsn?tab=repositories" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/github/stars/Lourivalrsn?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🛠️ Linguagens e Tecnologias
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,python,java&theme=dark" />
-</p>
+# ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,python,java&theme=dark"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 # 📊 Estatísticas
 
-<p align="center">
+<img height="170em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lourivalrsn&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lourivalrsn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br)
+<img height="170em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lourivalrsn&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lourivalrsn&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
 
-</p>
+<img width="72%"
+src="https://streak-stats.demolab.com?user=Lourivalrsn&theme=midnight-purple&hide_border=true"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Lourivalrsn&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lourivalrsn&color=A970FF&style=for-the-badge" />
-</p>
+<div align="center">
+
+### 💜 Obrigado por visitar meu perfil 💜
+
+</div>
